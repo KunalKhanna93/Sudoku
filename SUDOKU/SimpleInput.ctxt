@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=class\ SimpleInput
+comment1.target=br
+comment2.params=q
+comment2.target=String\ askString(String)
+comment3.params=q
+comment3.target=int\ askInt(String)
+numComments=4
