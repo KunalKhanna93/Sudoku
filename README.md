@@ -1,8 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
 PROJECT TITLE: SUDOKU GAME AND SOLVER
 PURPOSE OF PROJECT: SCHOOL PROJECT
@@ -20,6 +15,6 @@ Sudoku is a number puzzle played over a 9x9 grid, divided into 3x3 sub grids cal
        (1 number only in each cell) according the following guidelines:
          1. Number can appear only once on each row.
          2. Number can appear only once on each column.
-         3. Number can appear only once on each region.\n   
+         3. Number can appear only once on each region. 
   - A summary of this would be, that a number should appear only once on each row, column and region.
  The more numbers that are removed, the harder the puzzle.
