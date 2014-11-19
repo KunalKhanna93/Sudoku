@@ -1,10 +1,16 @@
 
 PROJECT TITLE: SUDOKU GAME AND SOLVER
+
 PURPOSE OF PROJECT: SCHOOL PROJECT
+
 VERSION or DATE: 2009-10
+
 HOW TO START THIS PROJECT: ONLY CALL THE " void main(String[] args) " OF THE MAIN CLASS.
+
 AUTHOR: KUNAL KHANNA, CLASS: 10 B, ST. JAMES' SCHOOL.
+
 USER INSTRUCTIONS: DO AS DIRECTED. SEE THE RULES IN THE MAIN TOO.
+
 
 What is sudoku?
 Sudoku is a number puzzle played over a 9x9 grid, divided into 3x3 sub grids called regions.
